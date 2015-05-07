@@ -1,5 +1,7 @@
 ##Velocity 1.2.2
 
+http://www.julian.com/research/velocity/
+
 **News**  
 You can now order the Velocity book on [Amazon](http://amazon.com/Web-Animation-using-JavaScript-Develop/dp/0134096665)!
 
